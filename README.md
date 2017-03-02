@@ -1,2 +1,2 @@
 # hello-world
-creating my first sample git repo
+editing my first master repo
