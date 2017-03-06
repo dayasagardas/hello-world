@@ -4,3 +4,4 @@ this is my third line in master
 this is my fourth line in master
 added fifth line in master directly
 added sixth line in master directly
+added seventh line in master directly
