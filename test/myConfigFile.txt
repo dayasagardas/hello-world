@@ -4,9 +4,11 @@ this is my third line in master
 this is my fourth line in master
 added fifth line in master directly
 added sixth line in master directly
+added fifth line in branch directly
+added sixth line in branch directly
 added seventh line in master directly
 added eigth line in master directly
-added ninth line in master directly
+added ninth line in branch directly
 added tenth line in master directly
 added 11th line in master directly
 added 11th line in branch directly
